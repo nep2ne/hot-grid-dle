@@ -28,11 +28,11 @@ body {
   width: 100%;
 }
 
-.banner {
+figure {
   position: relative;
 }
 
-.caption {
+figcaption {
   max-width: 15em;
   border-radius: 10px;
   background-color: rgba(0, 0, 0, .5);
@@ -44,12 +44,4 @@ body {
 
 p {
   color: #fff;
-}
-
-/* @media only screen and (min-width: 38em) {
-
-  .caption {
-    max-width: 60em;
-  } */
-
 }
